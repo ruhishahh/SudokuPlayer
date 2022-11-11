@@ -48,8 +48,6 @@ def findEmpty(board):
      
 
 
-# go thru this with pen and paper tomorrow
-
 '''
 Uses a backtracing algorithm and recursion to solve the board
 '''
