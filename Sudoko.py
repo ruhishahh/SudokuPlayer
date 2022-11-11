@@ -6,13 +6,6 @@ Created on Mon Jun 27 13:51:16 2022
 @author: ruhishah
 """
 
-#0: 0  1  2
-#1  3  4  5
-#2  6  7  8
-
-#3 which becomes 1
-# want to iterate 3 4 5
-
 
 
 board = [
