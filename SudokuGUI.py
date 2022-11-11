@@ -12,12 +12,6 @@ import requests
 from sudokuSolver import solver, checkValid, findEmpty
 
 
-# uses valid if we wanna check if one number is a valid solution or not
-
-#so we would check if move is valid, then place onto board 
-#and see if solver returns true, meaning a solution is possible with number there
-
-
 WINSIZE = 550
 BOARDSIZE = 9
 
